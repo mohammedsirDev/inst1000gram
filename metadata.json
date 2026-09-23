@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix inst1000gram - Fast Instagram Downloader \u0026 pSEO Engine",
+  "description": "Download Instagram Reels, Videos, Photos, Stories, and IGTV in HD. Built with programmatic SEO sitemap partitioning, multilingual Arabic Amiri RTL support, and a secure Django-style admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
